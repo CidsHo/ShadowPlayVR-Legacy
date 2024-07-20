@@ -1,9 +1,8 @@
 # ShadowPlayVR (Legacy Version)
-This is the original version of ShadowPlayVR system (Dev based on HTC VIVE). I developed this system for my master thesis and some other papers.
-As I have moved to Quest3, I am currently converting this project into new platform. This project is just for demonstration and documentation.
+This is the original version of the ShadowPlayVR system, developed on the HTC VIVE for my master's thesis and other papers. As I have transitioned to Quest3, I am currently porting this project to the new platform. This project is intended solely for demonstration and documentation purposes.
 
-##Related work
-1. [ShadowPlayVR-Interaction](https://github.com/CidsHo/ShadowPlayVR-Interaction): How ShadowPlayVR adapted the original performance technique into virtual reality enviroment, though interaction design.
+## Related work
+1. [ShadowPlayVR-Interaction](https://github.com/CidsHo/ShadowPlayVR-Interaction)
 
 2. Yihao He. 2023. ShadowPlayVR: Understanding Traditional Shadow Puppetry Performance Techniques Through Non-Intuitive Embodied Interactions. In Proceedings of the 29th ACM Symposium on Virtual Reality Software and Technology (VRST '23). Association for Computing Machinery, New York, NY, USA, Article 73, 1–2. (https://doi.org/10.1145/3611659.3617226)
 
